@@ -1,3 +1,4 @@
-tester = 'hello world!'
+message = 'stuff happens'
+tester = f'{message}'
 
 print(tester)
